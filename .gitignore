@@ -1,2 +1,13 @@
-data
-weights
+# Data directory
+/data
+
+# Weights directory
+/weights
+
+# Wandb directory
+/wandb
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
