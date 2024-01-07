@@ -9,3 +9,7 @@ Here are the results of the image classification model developed for the UBC Ova
 - **Model Performance Image**: Below is an image illustrating the model's performance.
 
 ![Model Performance](readme_images/classification_results.png)
+
+
+## Anomaly Detection Results
+![Model Performance](readme_images/anomaly_detection.png)
